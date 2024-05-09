@@ -1,10 +1,10 @@
-name: Mobile App Name
-description: A super tagline for the mobile app
+name: Vision
+description: A Nobile app for blind people
 full_description: 'A more complete description of the mobile app<br>
 <br>With a lot of features:
-<br>- Feature 1
-<br>- Feature 2
-<br>- Feature 3'
+<br>- Money Detection
+<br>- Video Calls
+<br>- Easy SignUp with google'
 android: https://telegra.ph/Replace-this-link-07-23
 iOS: https://telegra.ph/Replace-this-link-07-23
 web: https://telegra.ph/Replace-this-link-07-23
