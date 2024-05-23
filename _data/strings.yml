@@ -1,16 +1,11 @@
 app:
   screenshots: Screenshots
   description: Description
-  featured: Featured in
+
 
 footer:
-  # copyright: 
-  # links:
-  #   - title: Github
-  #     url: https://github.com/sandoche/Mobile-app-landingpage-template
-  #     target: _blank
-  #   - title: Donate
-  #     url: https://paypal.me/kanbanote
-  #     target: _blank
-  #   - title: Privacy
-  #     url: /privacy
+  copyright: 
+  links:
+    - title: Vision@2024
+      url: #
+      target: _blank
